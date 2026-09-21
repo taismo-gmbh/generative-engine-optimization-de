@@ -16,6 +16,8 @@ Gemini und Perplexity.
 
 Sie besteht aus vier Teilen. Wer nur einen davon macht, macht kein GEO:
 
+[![Die vier Bestandteile von GEO: Entitätenaufbau, strukturierte Daten, zitierfähige Inhalte und Messung der KI-Sichtbarkeit, dargestellt als vier gleichrangige Säulen](bilder/geo-vier-bestandteile.svg)](https://taismo.de/was-ist/generative-engine-optimization/)
+
 **Entitätenaufbau.** Ein Modell zitiert keine Seiten, es zitiert Quellen, denen es eine
 Identität zuordnen kann. Solange ein Unternehmen nur als Sammlung von URLs existiert und
 nicht als benannte, verknüpfte Einheit, fehlt der Anknüpfungspunkt. Dazu gehören konsistente
@@ -44,17 +46,20 @@ sind. Wer GEO als Ablösung des SEO verkauft, verkauft eine Verkürzung.
 |---|---|
 | [`pruefkatalog.md`](pruefkatalog.md) | Prüfkatalog für die KI-Sichtbarkeit einer Website, sechs Bereiche, jeder Punkt einzeln prüfbar |
 | [`agentur-kriterien.md`](agentur-kriterien.md) | Sechs nachprüfbare Kriterien, an denen sich eine GEO-Agentur messen lassen muss, mit unseren eigenen Belegen |
+| [`glossar.md`](glossar.md) | 37 GEO-Begriffe, jeweils in einem bis drei Sätzen definiert, mit Verweis auf die ausführliche Fassung |
+| [`glossar.jsonld`](glossar.jsonld) | Dieselben 37 Begriffe als maschinenlesbares `DefinedTermSet` |
 | [`LICENSE`](LICENSE) | CC BY 4.0 für die Texte |
 | [`CITATION.cff`](CITATION.cff) | Zitierangabe in maschinenlesbarer Form |
 
-Das Repository wächst. Geplant sind ein Glossar der GEO-Begriffe als maschinenlesbares
-`DefinedTermSet`, JSON-LD-Vorlagen mit den Fallstricken aus echten Projekten, eine
-Übersicht der KI-Crawler und ihrer Steuerung, sowie Werkzeuge zur Messung. Angekündigt wird
-hier nichts, was nicht als Datei vorliegt.
+Das Repository wächst. Geplant sind JSON-LD-Vorlagen mit den Fallstricken aus echten
+Projekten, eine Übersicht der KI-Crawler und ihrer Steuerung sowie Werkzeuge zur Messung.
+Angekündigt wird hier nichts, was nicht als Datei vorliegt.
 
 ## Wie KI-Systeme Quellen auswählen
 
 Der Vorgang lässt sich in vier Schritte zerlegen, und an jedem davon kann man arbeiten:
+
+[![Vier Schritte von der Website in die KI-Antwort: Abruf durch den Crawler, Einbettung in Abschnitte, Auswahl passender Abschnitte und Zitat in der Antwort](bilder/quellenauswahl-vier-schritte.svg)](https://taismo.de/was-ist/ki-crawler/)
 
 1. **Abruf.** Der Crawler des Anbieters muss die Seite holen dürfen und können. Das ist eine
    Frage von `robots.txt`, Statuscodes, Serverantwortzeit und davon, ob der Inhalt ohne
@@ -77,6 +82,8 @@ optimiert, optimiert auf die Ursache.
 ## Wie man KI-Sichtbarkeit misst
 
 Drei Regeln, die sich in der Praxis als notwendig erwiesen haben:
+
+[![Gemessene Prompt-Varianz im Google KI-Modus: im Plural gefragt Platz 2 von 8, im Singular Platz 3 von 5, umgangssprachlich gefragt keine Nennung, jeweils abhängig davon, ob der eigene Beitrag als Quelle gezogen wurde](bilder/prompt-varianz-messung.svg)](https://taismo.de/was-ist/prompt/)
 
 **Immer mehrere Systeme.** Dieselbe Frage führt bei ChatGPT, Gemini, Perplexity und im
 KI-Modus von Google zu grundlegend verschiedenen Antworten. Wer aus einem System schließt,

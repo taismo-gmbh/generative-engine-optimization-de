@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 290" width="880" height="290" role="img" aria-labelledby="titel beschreibung">
+<title id="titel">Wie KI-Systeme Quellen auswählen: vier Schritte</title>
+<desc id="beschreibung">Der Weg von der Website in die KI-Antwort in vier Schritten: Abruf durch den Crawler, Einbettung in Vektoren, Auswahl passender Abschnitte und Zitat in der Antwort. Der messbare Wert entsteht im vierten Schritt, der Hebel liegt bei den ersten drei.</desc>
+<rect width="880" height="290" fill="#ffffff"/>
+<text x="24" y="38" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="19" font-weight="600" fill="#072328">Wie KI-Systeme Quellen auswählen</text>
+<text x="24" y="60" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#5a6b6e">An jedem der vier Schritte kann man arbeiten. Gemessen wird meist nur der letzte.</text>
+<rect x="24" y="86" width="178" height="92" rx="8" fill="#072328"/>
+<text x="42" y="112" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#ED8924">SCHRITT 1</text>
+<text x="42" y="134" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#ffffff">Abruf</text>
+<text x="42" y="156" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#c8d2d3">robots.txt, Status,</text>
+<text x="42" y="171" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#c8d2d3">Antwortzeit, HTML</text>
+<path d="M210 132 L232 132 M226 126 L232 132 L226 138" stroke="#ED8924" stroke-width="2.5" fill="none"/>
+<rect x="240" y="86" width="178" height="92" rx="8" fill="#072328"/>
+<text x="258" y="112" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#ED8924">SCHRITT 2</text>
+<text x="258" y="134" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#ffffff">Einbettung</text>
+<text x="258" y="156" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#c8d2d3">Zerlegung in</text>
+<text x="258" y="171" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#c8d2d3">Abschnitte</text>
+<path d="M426 132 L448 132 M442 126 L448 132 L442 138" stroke="#ED8924" stroke-width="2.5" fill="none"/>
+<rect x="456" y="86" width="178" height="92" rx="8" fill="#072328"/>
+<text x="474" y="112" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#ED8924">SCHRITT 3</text>
+<text x="474" y="134" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#ffffff">Auswahl</text>
+<text x="474" y="156" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#c8d2d3">Autorität, Aktualität,</text>
+<text x="474" y="171" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#c8d2d3">Zuständigkeit</text>
+<path d="M642 132 L664 132 M658 126 L664 132 L658 138" stroke="#ED8924" stroke-width="2.5" fill="none"/>
+<rect x="672" y="86" width="184" height="92" rx="8" fill="#ED8924"/>
+<text x="690" y="112" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#072328">SCHRITT 4</text>
+<text x="690" y="134" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#072328">Zitat</text>
+<text x="690" y="156" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#072328">Die Quelle steht</text>
+<text x="690" y="171" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#072328">in der Antwort</text>
+<path d="M113 190 L113 210 L764 210 L764 190" stroke="#ED8924" stroke-width="1.5" fill="none" stroke-dasharray="4 4"/>
+<rect x="290" y="196" width="300" height="28" rx="6" fill="#ffffff"/>
+<text x="440" y="215" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12.5" font-style="italic" fill="#5a6b6e">Der Hebel liegt hier, nicht beim Ergebnis</text>
+<rect x="24" y="240" width="832" height="34" rx="6" fill="#f2f4f4"/>
+<text x="40" y="262" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#072328">Gemessen: Wo unsere Seite als Quelle gezogen wurde, kam die Marke vor. Wo nicht, fehlte sie.</text>
+<text x="856" y="262" text-anchor="end" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11.5" fill="#ED8924">taismo.de</text>
+</svg>

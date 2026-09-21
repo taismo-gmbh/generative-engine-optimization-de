@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 320" width="880" height="320" role="img" aria-labelledby="titel beschreibung">
+<title id="titel">Dieselbe Kaufabsicht, drei Formulierungen, drei Ergebnisse</title>
+<desc id="beschreibung">Gemessene Prompt-Varianz im Google KI-Modus am 19. und 20. September 2026. Im Plural gefragt Platz 2 von 8, im Singular Platz 3 von 5, umgangssprachlich gefragt keine Nennung. In den beiden Fällen mit Nennung wurde der eigene Beitrag als Quelle gezogen, im dritten nicht. Stabil ist die Quellenziehung, nicht die Nennung.</desc>
+<rect width="880" height="320" fill="#ffffff"/>
+<text x="24" y="38" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="19" font-weight="600" fill="#072328">Dieselbe Kaufabsicht, drei Formulierungen, drei Ergebnisse</text>
+<text x="24" y="60" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#5a6b6e">Google KI-Modus, 19. und 20.09.2026, deutsche Sprach- und Länderkennung, Sitzung ohne Verlauf</text>
+<rect x="24" y="82" width="832" height="26" fill="#072328"/>
+<text x="40" y="100" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12.5" font-weight="600" fill="#ffffff">Formulierung</text>
+<text x="520" y="100" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12.5" font-weight="600" fill="#ffffff">Eigener Beitrag als Quelle?</text>
+<text x="744" y="100" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12.5" font-weight="600" fill="#ffffff">Platzierung</text>
+<rect x="24" y="108" width="832" height="52" fill="#fdf1e4"/>
+<text x="40" y="132" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13.5" fill="#072328">„Welche GEO Agenturen kannst du empfehlen?“</text>
+<text x="40" y="150" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11.5" fill="#5a6b6e">Plural</text>
+<circle cx="536" cy="134" r="9" fill="#ED8924"/>
+<text x="536" y="139" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" font-weight="700" fill="#ffffff">✓</text>
+<text x="556" y="139" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12.5" fill="#072328">gezogen, „Bevorzugt“</text>
+<text x="744" y="139" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="700" fill="#072328">Platz 2 von 8</text>
+<rect x="24" y="162" width="832" height="52" fill="#fdf1e4"/>
+<text x="40" y="186" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13.5" fill="#072328">„Welche GEO Agentur kannst du empfehlen?“</text>
+<text x="40" y="204" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11.5" fill="#5a6b6e">Singular, sonst identisch</text>
+<circle cx="536" cy="188" r="9" fill="#ED8924"/>
+<text x="536" y="193" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" font-weight="700" fill="#ffffff">✓</text>
+<text x="556" y="193" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12.5" fill="#072328">gezogen, „Bevorzugt“</text>
+<text x="744" y="193" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="700" fill="#072328">Platz 3 von 5</text>
+<rect x="24" y="216" width="832" height="52" fill="#f2f4f4"/>
+<text x="40" y="240" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13.5" fill="#072328">„Wer macht GEO in Deutschland? Ich suche eine Agentur …“</text>
+<text x="40" y="258" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11.5" fill="#5a6b6e">umgangssprachlich</text>
+<circle cx="536" cy="242" r="9" fill="none" stroke="#8a9a9c" stroke-width="2"/>
+<text x="536" y="247" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" font-weight="700" fill="#8a9a9c">×</text>
+<text x="556" y="247" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12.5" fill="#5a6b6e">nicht gezogen</text>
+<text x="744" y="247" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="700" fill="#8a9a9c">nicht genannt</text>
+<rect x="24" y="280" width="832" height="34" rx="6" fill="#072328"/>
+<text x="40" y="302" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#ffffff">Stabil ist nicht die Nennung, sondern die Quellenziehung. Wer auf Nennungen optimiert, optimiert das Ergebnis.</text>
+<text x="856" y="302" text-anchor="end" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11.5" fill="#ED8924">taismo.de</text>
+</svg>
