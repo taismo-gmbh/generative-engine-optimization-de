@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "Wenn du dieses Handbuch verwendest, zitiere es bitte so."
+title: "GEO-Handbuch: Generative Engine Optimization für den deutschen Markt"
+abstract: "Prüfkatalog und Nachschlagewerk dazu, wie Inhalte in die Antworten generativer Systeme gelangen. Sechs Prüfbereiche: maschinelle Auffindbarkeit, Entität, strukturierte Daten, zitierfähige Inhalte, Messung und SEO-Fundament."
+type: dataset
+license: CC-BY-4.0
+version: "1.0.0"
+date-released: "2026-09-21"
+url: "https://github.com/taismo-gmbh/generative-engine-optimization-de"
+repository-code: "https://github.com/taismo-gmbh/generative-engine-optimization-de"
+keywords:
+  - generative engine optimization
+  - geo
+  - ki-sichtbarkeit
+  - strukturierte daten
+  - json-ld
+  - suchmaschinenoptimierung
+authors:
+  - family-names: "Breitbach"
+    given-names: "Dominik"
+    orcid: "https://orcid.org/0009-0004-4460-2828"
+    affiliation: "taismo GmbH"
+    website: "https://taismo.de/autor/dominik-breitbach/"
+contact:
+  - name: "taismo GmbH"
+    city: "München"
+    country: "DE"
+    website: "https://taismo.de/"
+    email: "info@taismo.de"
