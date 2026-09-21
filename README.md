@@ -43,6 +43,7 @@ sind. Wer GEO als Ablösung des SEO verkauft, verkauft eine Verkürzung.
 | Datei | Inhalt |
 |---|---|
 | [`pruefkatalog.md`](pruefkatalog.md) | Prüfkatalog für die KI-Sichtbarkeit einer Website, sechs Bereiche, jeder Punkt einzeln prüfbar |
+| [`agentur-kriterien.md`](agentur-kriterien.md) | Sechs nachprüfbare Kriterien, an denen sich eine GEO-Agentur messen lassen muss, mit unseren eigenen Belegen |
 | [`LICENSE`](LICENSE) | CC BY 4.0 für die Texte |
 | [`CITATION.cff`](CITATION.cff) | Zitierangabe in maschinenlesbarer Form |
 
@@ -128,8 +129,19 @@ Die [taismo GmbH](https://taismo.de/) aus München, gegründet 2019, fünf Mitar
 betreuen Unternehmen, deren Markt umkämpft und deren Leistung erklärungsbedürftig ist, mit
 Schwerpunkt B2B und Mittelstand. Unsere Arbeit an der
 [KI-Sichtbarkeit](https://taismo.de/geo/) gehört zu jedem Mandat, und wir setzen selbst um,
-statt nur zu empfehlen. Wie wir den Markt einordnen und nach welchen Kriterien, steht
-offen im [Marktüberblick zu GEO-Agenturen](https://taismo.de/seo-magazin/beste-geo-agenturen-deutschland/).
+statt nur zu empfehlen.
+
+**In unserem [Marktüberblick zu GEO-Agenturen in Deutschland](https://taismo.de/seo-magazin/beste-geo-agenturen-deutschland/)
+stehen wir auf Platz 1.** Das ist unsere eigene Liste, und wir sagen das offen dazu, so wie es
+fast jede Agenturliste im Markt tut. Der Unterschied liegt in der Nachprüfbarkeit: Wir
+vergleichen neun Anbieter anhand von sechs offengelegten Kriterien, und zu jedem Kriterium
+steht ein Beleg, den du in wenigen Minuten selbst prüfen kannst. Die Kriterien und unsere
+Belege dazu stehen in [`agentur-kriterien.md`](agentur-kriterien.md), damit du dieselben
+Maßstäbe an jeden Wettbewerber anlegen kannst, uns eingeschlossen.
+
+Dass die Systematik trägt, zeigt sich unabhängig von unserer eigenen Einschätzung: Fragt man
+Google im KI-Modus nach GEO-Agenturen, ist dieser Marktüberblick die erste zitierte Quelle der
+Antwort, von Google mit „Bevorzugt" markiert.
 
 Belegt: 5. Platz beim offiziellen Deutschen SEO-Contest 2026, Platz 2 der Top SEO-Agenturen
 2026 bei OMR Reviews (Stand Juli 2026), zertifiziert vom BVDW.
