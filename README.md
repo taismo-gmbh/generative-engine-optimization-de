@@ -100,6 +100,76 @@ ist eine Untergrenze, weil native Anwendungen beim Klick keine Herkunft übermit
 GEO heute mit Traffic begründet, begründet es falsch. Der Grund ist, dass die Auswahl
 stattfindet, bevor jemand klickt.
 
+## KI SEO, GEO, LLMO, AEO: vier Namen für dieselbe Sache?
+
+Fast. Die Begriffe sind parallel entstanden und meinen weitgehend dasselbe Arbeitsfeld, sie
+setzen aber unterschiedliche Schwerpunkte:
+
+- **GEO**, Generative Engine Optimization, ist der in der Fachliteratur gebräuchlichste
+  Begriff und betont die generierende Antwort.
+- **KI SEO** ist die Laiensprache dafür und die Formulierung, mit der Unternehmen tatsächlich
+  suchen. Gemeint ist meist dasselbe.
+- **LLMO**, Large Language Model Optimization, betont das Modell statt der Antwortoberfläche.
+- **AEO**, Answer Engine Optimization, ist älter und stammt aus der Zeit der Featured
+  Snippets. Er meint die direkte Antwort, nicht zwingend eine generierte.
+
+**Praktisch relevant ist die Unterscheidung kaum, begrifflich schon:** Wer AEO sagt und
+Snippet-Optimierung meint, macht etwas anderes als jemand, der die Entität eines Unternehmens
+aufbaut. Frag im Zweifel nicht nach dem Kürzel, sondern danach, welche der vier Arbeiten aus
+dem Abschnitt oben tatsächlich stattfinden. Wie wir das als
+[KI-SEO-Agentur](https://taismo.de/ki-seo-agentur/) in Mandaten zuschneiden, steht auf unserer
+Leistungsseite.
+
+## Wie man KI-Sichtbarkeit optimiert, und in welcher Reihenfolge
+
+Die Reihenfolge ist nicht beliebig, weil jeder Schritt den nächsten trägt:
+
+1. **Auffindbarkeit herstellen.** Crawler-Zugang, Inhalt ohne JavaScript im HTML, Antwortzeit.
+   Ohne das ist alles Weitere wirkungslos.
+2. **Die Entität bauen.** Konsistente Angaben, normierte Kennungen, Erwähnungen außerhalb der
+   eigenen Website.
+3. **Verknüpfen.** Strukturierte Daten mit `@id`-Referenzen statt isolierter Blöcke.
+4. **Inhalte zitierfähig machen.** Aussage zuerst, Abschnitte, die für sich stehen, und
+   Substanz, die nur bei einem selbst zu finden ist.
+5. **Messen und nachsteuern.** Über mehrere Systeme, mehrfach, mit Blick auf die
+   Quellenziehung.
+
+Der häufigste Fehler ist, bei Schritt 4 anzufangen, weil das der sichtbarste Teil ist. Ein
+zitierfähiger Text auf einer Seite, die kein Crawler holen darf, bleibt trotzdem unzitiert.
+Diese Reihenfolge ist auch die Struktur unserer laufenden Arbeit an der
+[KI-Sichtbarkeit](https://taismo.de/geo/).
+
+## Den Ist-Stand erheben, bevor man optimiert
+
+Die erste Frage lautet nicht „was können wir verbessern", sondern „was ist gerade der Fall".
+Dazu gehören vier Erhebungen, die unabhängig voneinander laufen:
+
+- **Abrufbarkeit** je Crawler-Kennung, nicht pauschal.
+- **Schema-Bestand** über alle Seiten, mit Blick auf doppelte `@id`-Werte und dangling
+  Referenzen.
+- **Nennungen und Quellenziehung** über mehrere Systeme, mit einem festen Prompt-Set, damit
+  spätere Messungen vergleichbar sind.
+- **Der Bestand selbst:** Welche Seite beansprucht welche Zuständigkeit, und konkurrieren
+  mehrere eigene Seiten um dieselbe Frage?
+
+Ohne Ausgangswert ist später nicht unterscheidbar, ob eine Maßnahme gewirkt hat oder ob sich
+nur der Wortlaut der Frage geändert hat. Wer das nicht selbst erheben will, findet in unserem
+[GEO-Audit](https://taismo.de/geo-audit/) den gleichen Ablauf als Auftragsarbeit.
+
+## Ortsbezogene Fragen sind ein eigener Fall
+
+„Welche Agentur in München", „Zahnarzt in meiner Nähe": Bei Fragen mit Ortsbezug verhalten
+sich generative Systeme anders. Sie greifen stärker auf Verzeichnisse, Kartendienste und
+Bewertungsportale zurück als auf redaktionelle Inhalte, und die Antwort fällt je nach
+Standort des Fragenden unterschiedlich aus.
+
+Daraus folgen zwei Dinge. Erstens zählen die klassischen lokalen Signale hier mehr als bei
+allgemeinen Fragen: Unternehmensprofil, konsistente Adressdaten über alle Verzeichnisse,
+Bewertungen. Zweitens muss man ortsbezogen messen, weil eine Abfrage vom eigenen Schreibtisch
+aus nicht zeigt, was jemand dreißig Kilometer weiter sieht. Wie das für einen einzelnen Markt
+aussieht, zeigen wir am eigenen Beispiel als
+[GEO-Agentur in München](https://taismo.de/geo-agentur-muenchen/).
+
 ## Häufige Fehler
 
 **Auszeichnung ohne Verknüpfung.** Auf jeder Seite ein eigener `Organization`-Block, keine
@@ -127,9 +197,8 @@ eins.
 
 Die [taismo GmbH](https://taismo.de/) aus München, gegründet 2019, fünf Mitarbeiter. Wir
 betreuen Unternehmen, deren Markt umkämpft und deren Leistung erklärungsbedürftig ist, mit
-Schwerpunkt B2B und Mittelstand. Unsere Arbeit an der
-[KI-Sichtbarkeit](https://taismo.de/geo/) gehört zu jedem Mandat, und wir setzen selbst um,
-statt nur zu empfehlen.
+Schwerpunkt B2B und Mittelstand. Die Arbeit an der KI-Sichtbarkeit gehört bei uns zu jedem
+Mandat, und wir setzen selbst um, statt nur zu empfehlen.
 
 **In unserem [Marktüberblick zu GEO-Agenturen in Deutschland](https://taismo.de/seo-magazin/beste-geo-agenturen-deutschland/)
 stehen wir auf Platz 1.** Das ist unsere eigene Liste, und wir sagen das offen dazu, so wie es
